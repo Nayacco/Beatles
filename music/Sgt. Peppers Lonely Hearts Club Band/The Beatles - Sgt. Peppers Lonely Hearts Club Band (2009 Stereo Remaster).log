@@ -1,0 +1,204 @@
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 3. September 2009, 0:45
+
+The Beatles / Sgt. Peppers Lonely Hearts Club Band (2009 Stereo Remaster)
+
+Used drive  : TSSTcorpCDDVDW TS-L633L   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s  
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  2:02.67 |         0    |     9216   
+        2  |  2:02.67 |  2:44.08 |      9217    |    21524   
+        3  |  4:47.00 |  3:28.35 |     21525    |    37159   
+        4  |  8:15.35 |  2:48.09 |     37160    |    49768   
+        5  | 11:03.44 |  2:36.62 |     49769    |    61530   
+        6  | 13:40.31 |  3:35.12 |     61531    |    77667   
+        7  | 17:15.43 |  2:37.40 |     77668    |    89482   
+        8  | 19:53.08 |  5:04.50 |     89483    |   112332   
+        9  | 24:57.58 |  2:37.50 |    112333    |   124157   
+       10  | 27:35.33 |  2:42.07 |    124158    |   136314   
+       11  | 30:17.40 |  2:41.17 |    136315    |   148406   
+       12  | 32:58.57 |  1:19.05 |    148407    |   154336   
+       13  | 34:17.62 |  5:37.31 |    154337    |   179642   
+       14  | 42:27.18 | 25:23.20 |    191043    |   305287   
+
+
+Track  1
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Sgt. Peppers Lonely Hearts Club Band (2009 Stereo Remaster) [FLAC]\01 - Sgt. Pepper's Lonely Hearts Club Band.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 96.0 %
+     Track quality 100.0 %
+     Test CRC FC040181
+     Copy CRC FC040181
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Sgt. Peppers Lonely Hearts Club Band (2009 Stereo Remaster) [FLAC]\02 - With A Little Help Help From My Friends.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 3F279D5A
+     Copy CRC 3F279D5A
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Sgt. Peppers Lonely Hearts Club Band (2009 Stereo Remaster) [FLAC]\03 - Lucy In The Sky With Diamonds.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC C2125338
+     Copy CRC C2125338
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Sgt. Peppers Lonely Hearts Club Band (2009 Stereo Remaster) [FLAC]\04 - Getting Better.wav
+
+     Pre-gap length  0:00:00.29
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC D1127756
+     Copy CRC D1127756
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Sgt. Peppers Lonely Hearts Club Band (2009 Stereo Remaster) [FLAC]\05 - Fixing A Hole.wav
+
+     Peak level 96.3 %
+     Track quality 100.0 %
+     Test CRC 71B444FB
+     Copy CRC 71B444FB
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Sgt. Peppers Lonely Hearts Club Band (2009 Stereo Remaster) [FLAC]\06 - She's Leaving Home.wav
+
+     Peak level 84.3 %
+     Track quality 99.9 %
+     Test CRC CC9D4CA5
+     Copy CRC CC9D4CA5
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Sgt. Peppers Lonely Hearts Club Band (2009 Stereo Remaster) [FLAC]\07 - Being For The Benefit of Mr. Kite!.wav
+
+     Peak level 95.9 %
+     Track quality 100.0 %
+     Test CRC 29CF68B2
+     Copy CRC 29CF68B2
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Sgt. Peppers Lonely Hearts Club Band (2009 Stereo Remaster) [FLAC]\08 - Within You Without You.wav
+
+     Pre-gap length  0:00:00.53
+
+     Peak level 96.9 %
+     Track quality 100.0 %
+     Test CRC FA02074D
+     Copy CRC FA02074D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Sgt. Peppers Lonely Hearts Club Band (2009 Stereo Remaster) [FLAC]\09 - When I'm Sixty-Four.wav
+
+     Peak level 96.6 %
+     Track quality 100.0 %
+     Test CRC 9A457ED6
+     Copy CRC 9A457ED6
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Sgt. Peppers Lonely Hearts Club Band (2009 Stereo Remaster) [FLAC]\10 - Lovely Rita.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC AA19828D
+     Copy CRC AA19828D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Sgt. Peppers Lonely Hearts Club Band (2009 Stereo Remaster) [FLAC]\11 - Good Morning Good Morning.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC CA5E00B1
+     Copy CRC CA5E00B1
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Sgt. Peppers Lonely Hearts Club Band (2009 Stereo Remaster) [FLAC]\12 - Sgt. Pepper's Lonley Hearts Club Band (Reprise).wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 48E41E31
+     Copy CRC 48E41E31
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 13
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Sgt. Peppers Lonely Hearts Club Band (2009 Stereo Remaster) [FLAC]\13 - A Day In The Life.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC F6F15851
+     Copy CRC F6F15851
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

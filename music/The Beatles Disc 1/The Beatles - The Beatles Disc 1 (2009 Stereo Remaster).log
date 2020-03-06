@@ -1,0 +1,253 @@
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 3. September 2009, 2:14
+
+The Beatles / The Beatles Disc 1 (2009 Stereo Remaster)
+
+Used drive  : TSSTcorpCDDVDW TS-L633L   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s  
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  2:43.34 |         0    |    12258   
+        2  |  2:43.34 |  3:55.58 |     12259    |    29941   
+        3  |  6:39.17 |  2:17.63 |     29942    |    40279   
+        4  |  8:57.05 |  3:08.72 |     40280    |    54451   
+        5  | 12:06.02 |  0:52.73 |     54452    |    58424   
+        6  | 12:59.00 |  3:14.12 |     58425    |    72986   
+        7  | 16:13.12 |  4:45.00 |     72987    |    94361   
+        8  | 20:58.12 |  2:44.41 |     94362    |   106702   
+        9  | 23:42.53 |  2:28.43 |    106703    |   117845   
+       10  | 26:11.21 |  2:03.37 |    117846    |   127107   
+       11  | 28:14.58 |  2:18.29 |    127108    |   137486   
+       12  | 30:33.12 |  2:04.20 |    137487    |   146806   
+       13  | 32:37.32 |  3:33.08 |    146807    |   162789   
+       14  | 36:10.40 |  3:50.34 |    162790    |   180073   
+       15  | 40:00.74 |  1:41.12 |    180074    |   187660   
+       16  | 41:42.11 |  1:45.70 |    187661    |   195605   
+       17  | 43:28.06 |  2:56.50 |    195606    |   208855   
+
+
+Track  1
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\01 - Back in the U.S.S.R..wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 1100BB2A
+     Copy CRC 1100BB2A
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\02 - Dear Prudence.wav
+
+     Peak level 95.8 %
+     Track quality 99.9 %
+     Test CRC B8BCB3C6
+     Copy CRC B8BCB3C6
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\03 - Glass Onion.wav
+
+     Peak level 96.2 %
+     Track quality 100.0 %
+     Test CRC B7CBBD26
+     Copy CRC B7CBBD26
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\04 - Ob-La-Di, Ob-La-Da.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 207D4956
+     Copy CRC 207D4956
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\05 - Wild Honey Pie.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 5EA6BC8D
+     Copy CRC 5EA6BC8D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\06 - The Continuing Story of Bungalow Bill.wav
+
+     Peak level 96.3 %
+     Track quality 100.0 %
+     Test CRC 9AD7F99A
+     Copy CRC 9AD7F99A
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\07 - While My Guitar Gently Weeps.wav
+
+     Peak level 96.8 %
+     Track quality 100.0 %
+     Test CRC 6C6F91DA
+     Copy CRC 6C6F91DA
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\08 - Happiness Is A Warm Gun.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC AC2578EE
+     Copy CRC AC2578EE
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\09 - Martha My Dear.wav
+
+     Pre-gap length  0:00:01.32
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 25829C03
+     Copy CRC 25829C03
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\10 - I'm So Tired.wav
+
+     Peak level 96.2 %
+     Track quality 100.0 %
+     Test CRC ADD238DB
+     Copy CRC ADD238DB
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\11 - Blackbird.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 90EBE78E
+     Copy CRC 90EBE78E
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\12 - Piggies.wav
+
+     Peak level 96.6 %
+     Track quality 100.0 %
+     Test CRC F9A60E65
+     Copy CRC F9A60E65
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 13
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\13 - Rocky Raccoon.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 4F425DB4
+     Copy CRC 4F425DB4
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 14
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\14 - Don't Pass Me By.wav
+
+     Peak level 96.1 %
+     Track quality 99.9 %
+     Test CRC 034ED77C
+     Copy CRC 034ED77C
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 15
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\15 - Why Don't We Do It In The Road .wav
+
+     Peak level 95.7 %
+     Track quality 100.0 %
+     Test CRC ECE4F6FA
+     Copy CRC ECE4F6FA
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 16
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\16 - I Will.wav
+
+     Pre-gap length  0:00:00.70
+
+     Peak level 95.8 %
+     Track quality 99.8 %
+     Test CRC 39AE2820
+     Copy CRC 39AE2820
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 17
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 1 (2009 Stereo Remaster) [FLAC]\17 - Julia.wav
+
+     Pre-gap length  0:00:01.01
+
+     Peak level 95.7 %
+     Track quality 99.9 %
+     Test CRC 36D32907
+     Copy CRC 36D32907
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

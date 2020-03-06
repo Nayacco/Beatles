@@ -1,0 +1,214 @@
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 3. September 2009, 3:32
+
+The Beatles / The Beatles Disc 2 (2009 Stereo Remaster)
+
+Used drive  : TSSTcorpCDDVDW TS-L633L   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s  
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  2:43.06 |         0    |    12230   
+        2  |  2:43.06 |  4:00.34 |     12231    |    30264   
+        3  |  6:43.40 |  2:48.02 |     30265    |    42866   
+        4  |  9:31.42 |  2:24.58 |     42867    |    53724   
+        5  | 11:56.25 |  3:15.20 |     53725    |    68369   
+        6  | 15:11.45 |  4:29.59 |     68370    |    88603   
+        7  | 19:41.29 |  3:06.23 |     88604    |   102576   
+        8  | 22:47.52 |  4:15.53 |    102577    |   121754   
+        9  | 27:03.30 |  2:41.12 |    121755    |   133841   
+       10  | 29:44.42 |  2:54.35 |    133842    |   146926   
+       11  | 32:39.02 |  3:02.06 |    146927    |   160582   
+       12  | 35:41.08 |  8:22.01 |    160583    |   198233   
+       13  | 44:03.09 |  3:13.57 |    198234    |   212765   
+       14  | 49:48.66 | 26:05.68 |    224166    |   341608   
+
+
+Track  1
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 2 (2009 Stereo Remaster) [FLAC]\01 - Birthday.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 96.2 %
+     Track quality 100.0 %
+     Test CRC B38E25E4
+     Copy CRC B38E25E4
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 2 (2009 Stereo Remaster) [FLAC]\02 - Yer Blues.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 8BECADBE
+     Copy CRC 8BECADBE
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 2 (2009 Stereo Remaster) [FLAC]\03 - Mother Nautre's Son.wav
+
+     Pre-gap length  0:00:00.76
+
+     Peak level 95.8 %
+     Track quality 99.9 %
+     Test CRC 509AEFA2
+     Copy CRC 509AEFA2
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 2 (2009 Stereo Remaster) [FLAC]\04 - Everybody's Got Something to Hide Except Me and My Monkey.wav
+
+     Pre-gap length  0:00:00.16
+
+     Peak level 95.8 %
+     Track quality 99.9 %
+     Test CRC 23313F72
+     Copy CRC 23313F72
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 2 (2009 Stereo Remaster) [FLAC]\05 - Sexy Sadie.wav
+
+     Peak level 95.7 %
+     Track quality 99.9 %
+     Test CRC 95C88334
+     Copy CRC 95C88334
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 2 (2009 Stereo Remaster) [FLAC]\06 - Helter Skelter.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 0B23D09E
+     Copy CRC 0B23D09E
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 2 (2009 Stereo Remaster) [FLAC]\07 - Long, Long, Long.wav
+
+     Pre-gap length  0:00:00.54
+
+     Peak level 95.8 %
+     Track quality 99.9 %
+     Test CRC 040F920E
+     Copy CRC 040F920E
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 2 (2009 Stereo Remaster) [FLAC]\08 - Revolution I.wav
+
+     Pre-gap length  0:00:02.54
+
+     Peak level 91.3 %
+     Track quality 99.9 %
+     Test CRC 84659ADC
+     Copy CRC 84659ADC
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 2 (2009 Stereo Remaster) [FLAC]\09 - Honey Pie.wav
+
+     Pre-gap length  0:00:00.17
+
+     Peak level 79.6 %
+     Track quality 100.0 %
+     Test CRC E11D9974
+     Copy CRC E11D9974
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 2 (2009 Stereo Remaster) [FLAC]\10 - Savoy Truffle.wav
+
+     Pre-gap length  0:00:00.46
+
+     Peak level 96.3 %
+     Track quality 100.0 %
+     Test CRC 5262492D
+     Copy CRC 5262492D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 2 (2009 Stereo Remaster) [FLAC]\11 - Cry Baby Cry.wav
+
+     Pre-gap length  0:00:00.54
+
+     Peak level 96.3 %
+     Track quality 100.0 %
+     Test CRC 70777881
+     Copy CRC 70777881
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 2 (2009 Stereo Remaster) [FLAC]\12 - Revolution 9.wav
+
+     Peak level 84.3 %
+     Track quality 100.0 %
+     Test CRC ADF2C5FC
+     Copy CRC ADF2C5FC
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 13
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - The Beatles Disc 2 (2009 Stereo Remaster) [FLAC]\13 - Good Night.wav
+
+     Peak level 80.1 %
+     Track quality 100.0 %
+     Test CRC 47504552
+     Copy CRC 47504552
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

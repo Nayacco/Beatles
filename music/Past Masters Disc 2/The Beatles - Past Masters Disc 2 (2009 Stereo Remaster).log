@@ -1,0 +1,247 @@
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 3. September 2009, 6:27
+
+The Beatles / Past Masters Disc 2 (2009 Stereo Remaster)
+
+Used drive  : TSSTcorpCDDVDW TS-L633L   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s  
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  2:49.11 |         0    |    12685   
+        2  |  2:49.11 |  2:15.33 |     12686    |    22843   
+        3  |  5:04.44 |  2:18.42 |     22844    |    33235   
+        4  |  7:23.11 |  3:01.24 |     33236    |    46834   
+        5  | 10:24.35 |  2:17.44 |     46835    |    57153   
+        6  | 12:42.04 |  2:36.11 |     57154    |    68864   
+        7  | 15:18.15 |  7:09.70 |     68865    |   101109   
+        8  | 22:28.10 |  3:24.42 |    101110    |   116451   
+        9  | 25:52.52 |  3:11.07 |    116452    |   130783   
+       10  | 29:03.59 |  3:35.46 |    130784    |   146954   
+       11  | 32:39.30 |  2:59.64 |    146955    |   160443   
+       12  | 35:39.19 |  3:18.49 |    160444    |   175342   
+       13  | 38:57.68 |  3:49.13 |    175343    |   192530   
+       14  | 42:47.06 |  3:51.55 |    192531    |   209910   
+       15  | 46:38.61 |  4:19.68 |    209911    |   229403   
+
+
+Track  1
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Past Masters Disc 2 (2009 Stereo Remaster) [FLAC]\01 - Day Tripper.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 42358CC6
+     Copy CRC 42358CC6
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Past Masters Disc 2 (2009 Stereo Remaster) [FLAC]\02 - We Can Work It Out.wav
+
+     Pre-gap length  0:00:01.30
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 5923E378
+     Copy CRC 5923E378
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Past Masters Disc 2 (2009 Stereo Remaster) [FLAC]\03 - Paperback Writer.wav
+
+     Pre-gap length  0:00:01.61
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 3F7FAA97
+     Copy CRC 3F7FAA97
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Past Masters Disc 2 (2009 Stereo Remaster) [FLAC]\04 - Rain.wav
+
+     Pre-gap length  0:00:01.04
+
+     Peak level 91.1 %
+     Track quality 99.9 %
+     Test CRC 022D88A3
+     Copy CRC 022D88A3
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Past Masters Disc 2 (2009 Stereo Remaster) [FLAC]\05 - Lady Madonna.wav
+
+     Pre-gap length  0:00:00.84
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 16C0A9A7
+     Copy CRC 16C0A9A7
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Past Masters Disc 2 (2009 Stereo Remaster) [FLAC]\06 - The Inner Light.wav
+
+     Pre-gap length  0:00:02.20
+
+     Peak level 80.8 %
+     Track quality 100.0 %
+     Test CRC 4052D491
+     Copy CRC 4052D491
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Past Masters Disc 2 (2009 Stereo Remaster) [FLAC]\07 - Hey Jude.wav
+
+     Pre-gap length  0:00:01.54
+
+     Peak level 96.6 %
+     Track quality 100.0 %
+     Test CRC 37A6B247
+     Copy CRC 37A6B247
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Past Masters Disc 2 (2009 Stereo Remaster) [FLAC]\08 - Revolution.wav
+
+     Peak level 95.8 %
+     Track quality 99.9 %
+     Test CRC 8BD186B8
+     Copy CRC 8BD186B8
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Past Masters Disc 2 (2009 Stereo Remaster) [FLAC]\09 - Get back.wav
+
+     Pre-gap length  0:00:00.29
+
+     Peak level 96.0 %
+     Track quality 100.0 %
+     Test CRC 2C3EDCC8
+     Copy CRC 2C3EDCC8
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Past Masters Disc 2 (2009 Stereo Remaster) [FLAC]\10 - Don't Let Me Down.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC CFF1DF72
+     Copy CRC CFF1DF72
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Past Masters Disc 2 (2009 Stereo Remaster) [FLAC]\11 - The Ballad of John and Yoko.wav
+
+     Pre-gap length  0:00:00.89
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 7A3F5492
+     Copy CRC 7A3F5492
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Past Masters Disc 2 (2009 Stereo Remaster) [FLAC]\12 - Old Brown Shoe.wav
+
+     Pre-gap length  0:00:01.20
+
+     Peak level 95.9 %
+     Track quality 100.0 %
+     Test CRC 935229D9
+     Copy CRC 935229D9
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 13
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Past Masters Disc 2 (2009 Stereo Remaster) [FLAC]\13 - Across The Universe.wav
+
+     Pre-gap length  0:00:00.88
+
+     Peak level 85.0 %
+     Track quality 100.0 %
+     Test CRC 3ACD5454
+     Copy CRC 3ACD5454
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 14
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Past Masters Disc 2 (2009 Stereo Remaster) [FLAC]\14 - Let It Be.wav
+
+     Pre-gap length  0:00:01.20
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 4DE93A3F
+     Copy CRC 4DE93A3F
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 15
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Past Masters Disc 2 (2009 Stereo Remaster) [FLAC]\15 - You Know My Name (Look Up The Number).wav
+
+     Pre-gap length  0:00:01.62
+
+     Peak level 95.3 %
+     Track quality 100.0 %
+     Test CRC BC1A5589
+     Copy CRC BC1A5589
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

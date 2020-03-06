@@ -1,0 +1,238 @@
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 2. September 2009, 19:24
+
+The Beatles / Please Please Me (2009 Stereo Remaster)
+
+Used drive  : TSSTcorpCDDVDW TS-L633L   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s  
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  2:53.71 |         0    |    13045   
+        2  |  2:53.71 |  1:48.41 |     13046    |    21186   
+        3  |  4:42.37 |  2:57.10 |     21187    |    34471   
+        4  |  7:39.47 |  2:25.06 |     34472    |    45352   
+        5  | 10:04.53 |  2:26.33 |     45353    |    56335   
+        6  | 12:31.11 |  2:26.40 |     56336    |    67325   
+        7  | 14:57.51 |  2:00.64 |     67326    |    76389   
+        8  | 16:58.40 |  2:21.52 |     76390    |    87016   
+        9  | 19:20.17 |  2:04.27 |     87017    |    96343   
+       10  | 21:24.44 |  2:40.39 |     96344    |   108382   
+       11  | 24:05.08 |  1:57.01 |    108383    |   117158   
+       12  | 26:02.09 |  2:03.36 |    117159    |   126419   
+       13  | 28:05.45 |  1:50.37 |    126420    |   134706   
+       14  | 29:56.07 |  2:35.17 |    134707    |   146348   
+       15  | 35:03.24 | 24:35.30 |    157749    |   268403   
+
+
+Track  1
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Please Please Me (2009 Stereo Remaster) [FLAC]\01 - I Saw Her Standing There.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 96.0 %
+     Track quality 100.0 %
+     Test CRC 03D34B20
+     Copy CRC 03D34B20
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Please Please Me (2009 Stereo Remaster) [FLAC]\02 - Misery.wav
+
+     Pre-gap length  0:00:01.38
+
+     Peak level 95.9 %
+     Track quality 100.0 %
+     Test CRC C2014C3F
+     Copy CRC C2014C3F
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Please Please Me (2009 Stereo Remaster) [FLAC]\03 - Anna (Go to Him).wav
+
+     Pre-gap length  0:00:01.61
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC DB1EAE08
+     Copy CRC DB1EAE08
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Please Please Me (2009 Stereo Remaster) [FLAC]\04 - Chains.wav
+
+     Pre-gap length  0:00:02.16
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 23C50D46
+     Copy CRC 23C50D46
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Please Please Me (2009 Stereo Remaster) [FLAC]\05 - Boys.wav
+
+     Pre-gap length  0:00:01.54
+
+     Peak level 95.8 %
+     Track quality 99.9 %
+     Test CRC 29F7C3A6
+     Copy CRC 29F7C3A6
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Please Please Me (2009 Stereo Remaster) [FLAC]\06 - Ask Me Why.wav
+
+     Pre-gap length  0:00:01.66
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 6A34C31D
+     Copy CRC 6A34C31D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Please Please Me (2009 Stereo Remaster) [FLAC]\07 - Please Please Me.wav
+
+     Pre-gap length  0:00:01.61
+
+     Peak level 96.6 %
+     Track quality 99.9 %
+     Test CRC 949075A0
+     Copy CRC 949075A0
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Please Please Me (2009 Stereo Remaster) [FLAC]\08 - Love Me Do.wav
+
+     Pre-gap length  0:00:01.96
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 6AB300C1
+     Copy CRC 6AB300C1
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Please Please Me (2009 Stereo Remaster) [FLAC]\09 - P.S. I Love You.wav
+
+     Pre-gap length  0:00:01.84
+
+     Peak level 92.0 %
+     Track quality 100.0 %
+     Test CRC 6C79187A
+     Copy CRC 6C79187A
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Please Please Me (2009 Stereo Remaster) [FLAC]\10 - Baby It's You.wav
+
+     Pre-gap length  0:00:01.68
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 09B43AB3
+     Copy CRC 09B43AB3
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Please Please Me (2009 Stereo Remaster) [FLAC]\11 - Do You Want To Know A Secret.wav
+
+     Pre-gap length  0:00:01.69
+
+     Peak level 95.7 %
+     Track quality 100.0 %
+     Test CRC 445A4B23
+     Copy CRC 445A4B23
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Please Please Me (2009 Stereo Remaster) [FLAC]\12 - A Taste of Honey.wav
+
+     Pre-gap length  0:00:00.74
+
+     Peak level 91.5 %
+     Track quality 100.0 %
+     Test CRC 9745248D
+     Copy CRC 9745248D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 13
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Please Please Me (2009 Stereo Remaster) [FLAC]\13 - There's A Place.wav
+
+     Pre-gap length  0:00:01.13
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC A7595FE8
+     Copy CRC A7595FE8
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 14
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Please Please Me (2009 Stereo Remaster) [FLAC]\14 - Twist and Shout.wav
+
+     Pre-gap length  0:00:01.18
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC D9698CF2
+     Copy CRC D9698CF2
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

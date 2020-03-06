@@ -1,0 +1,238 @@
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 2. September 2009, 23:33
+
+The Beatles / Revolver (2009 Stereo Remaster)
+
+Used drive  : TSSTcorpCDDVDW TS-L633L   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s  
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  2:38.64 |         0    |    11913   
+        2  |  2:38.64 |  2:06.40 |     11914    |    21403   
+        3  |  4:45.29 |  3:00.24 |     21404    |    34927   
+        4  |  7:45.53 |  2:59.62 |     34928    |    48414   
+        5  | 10:45.40 |  2:24.66 |     48415    |    59280   
+        6  | 13:10.31 |  2:38.66 |     59281    |    71196   
+        7  | 15:49.22 |  2:36.03 |     71197    |    82899   
+        8  | 18:25.25 |  2:09.22 |     82900    |    92596   
+        9  | 20:34.47 |  2:00.37 |     92597    |   101633   
+       10  | 22:35.09 |  1:59.61 |    101634    |   110619   
+       11  | 24:34.70 |  2:14.20 |    110620    |   120689   
+       12  | 26:49.15 |  2:27.73 |    120690    |   131787   
+       13  | 29:17.13 |  2:29.18 |    131788    |   142980   
+       14  | 31:46.31 |  2:59.41 |    142981    |   156446   
+       15  | 37:17.72 | 24:43.38 |    167847    |   279109   
+
+
+Track  1
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Revolver (2009 Stereo Remaster) [FLAC]\01 - Taxman.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 96.1 %
+     Track quality 100.0 %
+     Test CRC 10576F5F
+     Copy CRC 10576F5F
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Revolver (2009 Stereo Remaster) [FLAC]\02 - Eleanor Rigby.wav
+
+     Pre-gap length  0:00:01.68
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 9A4E065C
+     Copy CRC 9A4E065C
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Revolver (2009 Stereo Remaster) [FLAC]\03 - I'm Only Sleeping.wav
+
+     Pre-gap length  0:00:01.73
+
+     Peak level 95.8 %
+     Track quality 99.9 %
+     Test CRC 51E156F8
+     Copy CRC 51E156F8
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Revolver (2009 Stereo Remaster) [FLAC]\04 - Love You To.wav
+
+     Pre-gap length  0:00:01.28
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 1E7C3EE7
+     Copy CRC 1E7C3EE7
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Revolver (2009 Stereo Remaster) [FLAC]\05 - Here, There and Everywhere.wav
+
+     Pre-gap length  0:00:01.10
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC BA4FD7CD
+     Copy CRC BA4FD7CD
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Revolver (2009 Stereo Remaster) [FLAC]\06 - Yellow Submarine.wav
+
+     Pre-gap length  0:00:01.42
+
+     Peak level 96.3 %
+     Track quality 100.0 %
+     Test CRC 599AC491
+     Copy CRC 599AC491
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Revolver (2009 Stereo Remaster) [FLAC]\07 - She Said She Said.wav
+
+     Pre-gap length  0:00:01.45
+
+     Peak level 95.8 %
+     Track quality 99.9 %
+     Test CRC 83A9F5F2
+     Copy CRC 83A9F5F2
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Revolver (2009 Stereo Remaster) [FLAC]\08 - Good Day Sunshine.wav
+
+     Pre-gap length  0:00:01.17
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 33416741
+     Copy CRC 33416741
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Revolver (2009 Stereo Remaster) [FLAC]\09 - And Your Bird Can Sing.wav
+
+     Pre-gap length  0:00:01.04
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC E3660D28
+     Copy CRC E3660D28
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Revolver (2009 Stereo Remaster) [FLAC]\10 - For No One.wav
+
+     Pre-gap length  0:00:01.42
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 19AE721B
+     Copy CRC 19AE721B
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Revolver (2009 Stereo Remaster) [FLAC]\11 - Doctor Roberty.wav
+
+     Pre-gap length  0:00:01.46
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC A15C8B52
+     Copy CRC A15C8B52
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Revolver (2009 Stereo Remaster) [FLAC]\12 - I Want to Tell You.wav
+
+     Pre-gap length  0:00:00.82
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC F3CEABFB
+     Copy CRC F3CEABFB
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 13
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Revolver (2009 Stereo Remaster) [FLAC]\13 - Got To Get You Into My Life.wav
+
+     Pre-gap length  0:00:01.00
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 9D3D3E94
+     Copy CRC 9D3D3E94
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 14
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Revolver (2009 Stereo Remaster) [FLAC]\14 - Tomorrow Never Knows.wav
+
+     Pre-gap length  0:00:01.30
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 4EB2CD55
+     Copy CRC 4EB2CD55
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

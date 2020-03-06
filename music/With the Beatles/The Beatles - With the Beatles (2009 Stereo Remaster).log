@@ -1,0 +1,238 @@
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 2. September 2009, 20:33
+
+The Beatles / With the Beatles (2009 Stereo Remaster)
+
+Used drive  : TSSTcorpCDDVDW TS-L633L   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s  
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  2:13.29 |         0    |    10003   
+        2  |  2:13.29 |  2:02.43 |     10004    |    19196   
+        3  |  4:15.72 |  2:07.64 |     19197    |    28785   
+        4  |  6:23.61 |  2:28.19 |     28786    |    39904   
+        5  |  8:52.05 |  1:46.30 |     39905    |    47884   
+        6  | 10:38.35 |  2:13.38 |     47885    |    57897   
+        7  | 12:51.73 |  2:34.12 |     57898    |    69459   
+        8  | 15:26.10 |  2:45.35 |     69460    |    81869   
+        9  | 18:11.45 |  2:31.68 |     81870    |    93262   
+       10  | 20:43.38 |  3:01.26 |     93263    |   106863   
+       11  | 23:44.64 |  1:59.38 |    106864    |   115826   
+       12  | 25:44.27 |  2:26.16 |    115827    |   126792   
+       13  | 28:10.43 |  2:06.62 |    126793    |   136304   
+       14  | 30:17.30 |  2:49.38 |    136305    |   149017   
+       15  | 35:38.68 | 22:31.14 |    160418    |   261756   
+
+
+Track  1
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - With the Beatles (2009 Stereo Remaster) [FLAC]\01 - It Won't Be Long.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 96.5 %
+     Track quality 100.0 %
+     Test CRC 47BC8E56
+     Copy CRC 47BC8E56
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - With the Beatles (2009 Stereo Remaster) [FLAC]\02 - All I've Got To Do.wav
+
+     Pre-gap length  0:00:01.44
+
+     Peak level 96.1 %
+     Track quality 100.0 %
+     Test CRC D83209AD
+     Copy CRC D83209AD
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - With the Beatles (2009 Stereo Remaster) [FLAC]\03 - All My Loving.wav
+
+     Pre-gap length  0:00:00.37
+
+     Peak level 95.8 %
+     Track quality 99.9 %
+     Test CRC 050F5363
+     Copy CRC 050F5363
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - With the Beatles (2009 Stereo Remaster) [FLAC]\04 - Don't Bother Me.wav
+
+     Pre-gap length  0:00:01.20
+
+     Peak level 96.6 %
+     Track quality 100.0 %
+     Test CRC 04180966
+     Copy CRC 04180966
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - With the Beatles (2009 Stereo Remaster) [FLAC]\05 - Little Me.wav
+
+     Pre-gap length  0:00:01.18
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 6132F5FF
+     Copy CRC 6132F5FF
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - With the Beatles (2009 Stereo Remaster) [FLAC]\06 - Till There Was You.wav
+
+     Pre-gap length  0:00:01.20
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 807ACAD3
+     Copy CRC 807ACAD3
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - With the Beatles (2009 Stereo Remaster) [FLAC]\07 - Please Mister Postman.wav
+
+     Pre-gap length  0:00:00.77
+
+     Peak level 96.2 %
+     Track quality 100.0 %
+     Test CRC C4A87995
+     Copy CRC C4A87995
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - With the Beatles (2009 Stereo Remaster) [FLAC]\08 - Roll Over Beethoven.wav
+
+     Pre-gap length  0:00:00.50
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 5C2FAA08
+     Copy CRC 5C2FAA08
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - With the Beatles (2009 Stereo Remaster) [FLAC]\09 - Hold Me Tight.wav
+
+     Pre-gap length  0:00:01.37
+
+     Peak level 95.9 %
+     Track quality 100.0 %
+     Test CRC 0F46C9CA
+     Copy CRC 0F46C9CA
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - With the Beatles (2009 Stereo Remaster) [FLAC]\10 - You Really Got A Hold On Me.wav
+
+     Pre-gap length  0:00:01.46
+
+     Peak level 96.6 %
+     Track quality 100.0 %
+     Test CRC E8D32736
+     Copy CRC E8D32736
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - With the Beatles (2009 Stereo Remaster) [FLAC]\11 - I Wanna Be Your Man.wav
+
+     Pre-gap length  0:00:00.89
+
+     Peak level 95.8 %
+     Track quality 99.9 %
+     Test CRC D9C5CE40
+     Copy CRC D9C5CE40
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - With the Beatles (2009 Stereo Remaster) [FLAC]\12 - Devil In Her Heart.wav
+
+     Pre-gap length  0:00:00.53
+
+     Peak level 95.9 %
+     Track quality 100.0 %
+     Test CRC 21D4534D
+     Copy CRC 21D4534D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 13
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - With the Beatles (2009 Stereo Remaster) [FLAC]\13 - Not A Second Time.wav
+
+     Pre-gap length  0:00:01.53
+
+     Peak level 96.5 %
+     Track quality 99.9 %
+     Test CRC 68689626
+     Copy CRC 68689626
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 14
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - With the Beatles (2009 Stereo Remaster) [FLAC]\14 - Money (That's What I Want).wav
+
+     Pre-gap length  0:00:00.28
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 7A3FA12D
+     Copy CRC 7A3FA12D
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report
