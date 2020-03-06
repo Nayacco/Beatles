@@ -1,0 +1,238 @@
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 2. September 2009, 21:07
+
+The Beatles / Beatles For Sale (2009 Stereo Remaster)
+
+Used drive  : TSSTcorpCDDVDW TS-L633L   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s  
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  2:16.05 |         0    |    10204   
+        2  |  2:16.05 |  2:30.02 |     10205    |    21456   
+        3  |  4:46.07 |  2:04.39 |     21457    |    30795   
+        4  |  6:50.46 |  2:31.21 |     30796    |    42141   
+        5  |  9:21.67 |  1:48.64 |     42142    |    50305   
+        6  | 11:10.56 |  2:38.47 |     50306    |    62202   
+        7  | 13:49.28 |  2:38.11 |     62203    |    74063   
+        8  | 16:27.39 |  2:43.45 |     74064    |    86333   
+        9  | 19:11.09 |  2:04.24 |     86334    |    95657   
+       10  | 21:15.33 |  2:57.32 |     95658    |   108964   
+       11  | 24:12.65 |  2:03.60 |    108965    |   118249   
+       12  | 26:16.50 |  2:34.35 |    118250    |   129834   
+       13  | 28:51.10 |  2:30.03 |    129835    |   141087   
+       14  | 31:21.13 |  2:26.00 |    141088    |   152037   
+       15  | 36:19.13 | 25:04.11 |    163438    |   276248   
+
+
+Track  1
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Beatles For Sale (2009 Stereo Remaster) [FLAC]\01 - No Reply.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC F902451B
+     Copy CRC F902451B
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Beatles For Sale (2009 Stereo Remaster) [FLAC]\02 - I'm A Loser.wav
+
+     Pre-gap length  0:00:01.38
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 22A466AF
+     Copy CRC 22A466AF
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Beatles For Sale (2009 Stereo Remaster) [FLAC]\03 - Baby's In Black.wav
+
+     Pre-gap length  0:00:01.74
+
+     Peak level 96.1 %
+     Track quality 99.9 %
+     Test CRC 3AD5FEAE
+     Copy CRC 3AD5FEAE
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Beatles For Sale (2009 Stereo Remaster) [FLAC]\04 - Rock and Roll Music.wav
+
+     Pre-gap length  0:00:00.78
+
+     Peak level 96.5 %
+     Track quality 100.0 %
+     Test CRC DA2741CE
+     Copy CRC DA2741CE
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Beatles For Sale (2009 Stereo Remaster) [FLAC]\05 - I'll Follow the Sun.wav
+
+     Pre-gap length  0:00:00.94
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 2A4405F2
+     Copy CRC 2A4405F2
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Beatles For Sale (2009 Stereo Remaster) [FLAC]\06 - Mr. Moonlight.wav
+
+     Pre-gap length  0:00:01.04
+
+     Peak level 95.7 %
+     Track quality 100.0 %
+     Test CRC CB9474C6
+     Copy CRC CB9474C6
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Beatles For Sale (2009 Stereo Remaster) [FLAC]\07 - Kansas City,Hey-Hey-Hey-Hey.wav
+
+     Pre-gap length  0:00:01.33
+
+     Peak level 96.5 %
+     Track quality 100.0 %
+     Test CRC 4A176E43
+     Copy CRC 4A176E43
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Beatles For Sale (2009 Stereo Remaster) [FLAC]\08 - Eight Days A Week.wav
+
+     Pre-gap length  0:00:01.74
+
+     Peak level 95.9 %
+     Track quality 100.0 %
+     Test CRC CC819E6D
+     Copy CRC CC819E6D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Beatles For Sale (2009 Stereo Remaster) [FLAC]\09 - Words of Love.wav
+
+     Pre-gap length  0:00:00.66
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 56922000
+     Copy CRC 56922000
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Beatles For Sale (2009 Stereo Remaster) [FLAC]\10 - Honey Don't.wav
+
+     Pre-gap length  0:00:00.88
+
+     Peak level 95.7 %
+     Track quality 100.0 %
+     Test CRC DAB997F8
+     Copy CRC DAB997F8
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Beatles For Sale (2009 Stereo Remaster) [FLAC]\11 - Every Little Thing.wav
+
+     Pre-gap length  0:00:00.54
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 1C6963B5
+     Copy CRC 1C6963B5
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Beatles For Sale (2009 Stereo Remaster) [FLAC]\12 - I Don't Want to Spoil the Party.wav
+
+     Pre-gap length  0:00:01.36
+
+     Peak level 96.0 %
+     Track quality 100.0 %
+     Test CRC C7C875A3
+     Copy CRC C7C875A3
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 13
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Beatles For Sale (2009 Stereo Remaster) [FLAC]\13 - What You're Doing.wav
+
+     Pre-gap length  0:00:01.48
+
+     Peak level 96.7 %
+     Track quality 100.0 %
+     Test CRC B99AF284
+     Copy CRC B99AF284
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 14
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Beatles For Sale (2009 Stereo Remaster) [FLAC]\14 - Everybody's Trying To Be My Baby.wav
+
+     Pre-gap length  0:00:00.65
+
+     Peak level 96.6 %
+     Track quality 100.0 %
+     Test CRC EDA0D046
+     Copy CRC EDA0D046
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

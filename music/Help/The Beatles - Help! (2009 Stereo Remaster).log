@@ -1,0 +1,238 @@
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 2. September 2009, 22:12
+
+The Beatles / Help! (2009 Stereo Remaster)
+
+Used drive  : TSSTcorpCDDVDW TS-L633L   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s  
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  2:19.42 |         0    |    10466   
+        2  |  2:19.42 |  2:34.70 |     10467    |    22086   
+        3  |  4:54.37 |  2:09.09 |     22087    |    31770   
+        4  |  7:03.46 |  2:28.59 |     31771    |    42929   
+        5  |  9:32.30 |  2:05.27 |     42930    |    52331   
+        6  | 11:37.57 |  2:18.50 |     52332    |    62731   
+        7  | 13:56.32 |  3:09.51 |     62732    |    76957   
+        8  | 17:06.08 |  2:30.28 |     76958    |    88235   
+        9  | 19:36.36 |  1:56.36 |     88236    |    96971   
+       10  | 21:32.72 |  2:36.65 |     96972    |   108736   
+       11  | 24:09.62 |  2:37.74 |    108737    |   120585   
+       12  | 26:47.61 |  2:05.03 |    120586    |   129963   
+       13  | 28:52.64 |  2:05.50 |    129964    |   139388   
+       14  | 30:58.39 |  2:56.38 |    139389    |   152626   
+       15  | 36:27.02 | 23:23.64 |    164027    |   269315   
+
+
+Track  1
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Help! (2009 Stereo Remaster) [FLAC]\01 - Help!.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 41D1D11A
+     Copy CRC 41D1D11A
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Help! (2009 Stereo Remaster) [FLAC]\02 - The Night Before.wav
+
+     Pre-gap length  0:00:01.80
+
+     Peak level 95.9 %
+     Track quality 100.0 %
+     Test CRC DA5E9864
+     Copy CRC DA5E9864
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Help! (2009 Stereo Remaster) [FLAC]\03 - You've Got to Hide Your Love Away.wav
+
+     Pre-gap length  0:00:00.34
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 6894EBC6
+     Copy CRC 6894EBC6
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Help! (2009 Stereo Remaster) [FLAC]\04 - I Need You.wav
+
+     Pre-gap length  0:00:00.72
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 9765FC9C
+     Copy CRC 9765FC9C
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Help! (2009 Stereo Remaster) [FLAC]\05 - Another Girl.wav
+
+     Pre-gap length  0:00:00.61
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 2A1E6704
+     Copy CRC 2A1E6704
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Help! (2009 Stereo Remaster) [FLAC]\06 - You're Going to Lose That Girl.wav
+
+     Pre-gap length  0:00:00.52
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 08F5A5EC
+     Copy CRC 08F5A5EC
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Help! (2009 Stereo Remaster) [FLAC]\07 - Ticket To Ride.wav
+
+     Pre-gap length  0:00:00.90
+
+     Peak level 96.1 %
+     Track quality 100.0 %
+     Test CRC 9A7687FD
+     Copy CRC 9A7687FD
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Help! (2009 Stereo Remaster) [FLAC]\08 - Act Naturally.wav
+
+     Pre-gap length  0:00:00.69
+
+     Peak level 96.1 %
+     Track quality 100.0 %
+     Test CRC 15360217
+     Copy CRC 15360217
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Help! (2009 Stereo Remaster) [FLAC]\09 - It's Only Love.wav
+
+     Pre-gap length  0:00:00.52
+
+     Peak level 96.3 %
+     Track quality 100.0 %
+     Test CRC DDF4A126
+     Copy CRC DDF4A126
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Help! (2009 Stereo Remaster) [FLAC]\10 - You Like Me To Much.wav
+
+     Pre-gap length  0:00:00.90
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC F9423C1F
+     Copy CRC F9423C1F
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Help! (2009 Stereo Remaster) [FLAC]\11 - Tell Me What You See.wav
+
+     Pre-gap length  0:00:00.65
+
+     Peak level 95.9 %
+     Track quality 100.0 %
+     Test CRC EB274045
+     Copy CRC EB274045
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Help! (2009 Stereo Remaster) [FLAC]\12 - I've Seen That Face.wav
+
+     Pre-gap length  0:00:01.52
+
+     Peak level 96.3 %
+     Track quality 100.0 %
+     Test CRC 35A76890
+     Copy CRC 35A76890
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 13
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Help! (2009 Stereo Remaster) [FLAC]\13 - Yesterday.wav
+
+     Pre-gap length  0:00:00.78
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 4F58BDDA
+     Copy CRC 4F58BDDA
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 14
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Help! (2009 Stereo Remaster) [FLAC]\14 - Dizzy Miss Lizzy.wav
+
+     Pre-gap length  0:00:02.02
+
+     Peak level 95.9 %
+     Track quality 100.0 %
+     Test CRC BA1AB1F2
+     Copy CRC BA1AB1F2
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

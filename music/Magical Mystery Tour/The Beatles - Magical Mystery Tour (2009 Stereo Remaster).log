@@ -1,0 +1,194 @@
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 3. September 2009, 2:19
+
+The Beatles / Magical Mystery Tour (2009 Stereo Remaster)
+
+Used drive  : TSSTcorpCDDVDW TS-L632H   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 320 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\FLAC\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s  
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  2:50.08 |         0    |    12757   
+        2  |  2:50.08 |  2:59.08 |     12758    |    26190   
+        3  |  5:49.16 |  2:15.39 |     26191    |    36354   
+        4  |  8:04.55 |  3:55.05 |     36355    |    53984   
+        5  | 11:59.60 |  2:28.31 |     53985    |    65115   
+        6  | 14:28.16 |  4:35.65 |     65116    |    85805   
+        7  | 19:04.06 |  3:28.63 |     85806    |   101468   
+        8  | 22:32.69 |  4:07.24 |    101469    |   120017   
+        9  | 26:40.18 |  3:00.67 |    120018    |   133584   
+       10  | 29:41.10 |  3:01.23 |    133585    |   147182   
+       11  | 32:42.33 |  3:50.29 |    147183    |   164461   
+       12  | 39:04.62 | 23:57.66 |    175862    |   283702   
+
+
+Track  1
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Magical Mystery Tour (2009 Stereo Remaster) [FLAC]\01 - Magical Mystery Tour.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 7D57FC42
+     Copy CRC 7D57FC42
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Magical Mystery Tour (2009 Stereo Remaster) [FLAC]\02 - The Fool On The Hill.wav
+
+     Pre-gap length  0:00:00.68
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 2CA8B6AD
+     Copy CRC 2CA8B6AD
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Magical Mystery Tour (2009 Stereo Remaster) [FLAC]\03 - Flying.wav
+
+     Pre-gap length  0:00:01.40
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC E3132DBC
+     Copy CRC E3132DBC
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Magical Mystery Tour (2009 Stereo Remaster) [FLAC]\04 - Blue Jay Way.wav
+
+     Pre-gap length  0:00:01.20
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC AC8F4DA1
+     Copy CRC AC8F4DA1
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Magical Mystery Tour (2009 Stereo Remaster) [FLAC]\05 - Your Mother Should Know.wav
+
+     Pre-gap length  0:00:01.49
+
+     Peak level 95.8 %
+     Track quality 99.9 %
+     Test CRC 6B3A3D31
+     Copy CRC 6B3A3D31
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Magical Mystery Tour (2009 Stereo Remaster) [FLAC]\06 - I Am The Walrus.wav
+
+     Pre-gap length  0:00:01.48
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 7AFFC3B8
+     Copy CRC 7AFFC3B8
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Magical Mystery Tour (2009 Stereo Remaster) [FLAC]\07 - Helo Goodbye.wav
+
+     Pre-gap length  0:00:02.40
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC F659E4AB
+     Copy CRC F659E4AB
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Magical Mystery Tour (2009 Stereo Remaster) [FLAC]\08 - Strawberry Fields Forever.wav
+
+     Pre-gap length  0:00:00.70
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC E6865E82
+     Copy CRC E6865E82
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Magical Mystery Tour (2009 Stereo Remaster) [FLAC]\09 - Penny Lane.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC CB2AE9FA
+     Copy CRC CB2AE9FA
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Magical Mystery Tour (2009 Stereo Remaster) [FLAC]\10 - Baby You're A Rich Man.wav
+
+     Pre-gap length  0:00:01.46
+
+     Peak level 96.9 %
+     Track quality 99.9 %
+     Test CRC F27ABF3D
+     Copy CRC F27ABF3D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Magical Mystery Tour (2009 Stereo Remaster) [FLAC]\11 - All You Need Is Love.wav
+
+     Pre-gap length  0:00:00.58
+
+     Peak level 96.2 %
+     Track quality 100.0 %
+     Test CRC 109D0DDE
+     Copy CRC 109D0DDE
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

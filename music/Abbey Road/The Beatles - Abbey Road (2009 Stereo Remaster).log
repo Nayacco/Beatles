@@ -1,0 +1,268 @@
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 3. September 2009, 4:10
+
+The Beatles / Abbey Road (2009 Stereo Remaster)
+
+Used drive  : TSSTcorpCDDVDW TS-L633L   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s  
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  4:19.71 |         0    |    19495   
+        2  |  4:19.71 |  3:02.22 |     19496    |    33167   
+        3  |  7:22.18 |  3:27.69 |     33168    |    48761   
+        4  | 10:50.12 |  3:27.18 |     48762    |    64304   
+        5  | 14:17.30 |  2:50.54 |     64305    |    77108   
+        6  | 17:08.09 |  7:47.24 |     77109    |   112157   
+        7  | 24:55.33 |  3:05.55 |    112158    |   126087   
+        8  | 28:01.13 |  2:45.50 |    126088    |   138512   
+        9  | 30:46.63 |  4:02.73 |    138513    |   156735   
+       10  | 34:49.61 |  2:26.20 |    156736    |   167705   
+       11  | 37:16.06 |  1:06.40 |    167706    |   172695   
+       12  | 38:22.46 |  1:12.48 |    172696    |   178143   
+       13  | 39:35.19 |  1:58.47 |    178144    |   187040   
+       14  | 41:33.66 |  1:31.57 |    187041    |   193922   
+       15  | 43:05.48 |  1:36.35 |    193923    |   201157   
+       16  | 44:42.08 |  2:21.46 |    201158    |   211778   
+       17  | 47:03.54 |  0:25.74 |    211779    |   213727   
+       18  | 50:01.53 | 24:41.58 |    225128    |   336260   
+
+
+Track  1
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\01 - Come Together.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 0CF2E6E7
+     Copy CRC 0CF2E6E7
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\02 - Something.wav
+
+     Pre-gap length  0:00:01.70
+
+     Peak level 95.8 %
+     Track quality 99.9 %
+     Test CRC 9CF2C27C
+     Copy CRC 9CF2C27C
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\03 - Maxwell's Silver Hammer.wav
+
+     Pre-gap length  0:00:00.97
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC FE46B667
+     Copy CRC FE46B667
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\04 - Oh! Darling.wav
+
+     Pre-gap length  0:00:01.37
+
+     Peak level 96.6 %
+     Track quality 100.0 %
+     Test CRC 2703EB18
+     Copy CRC 2703EB18
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\05 - Octopus's Garden.wav
+
+     Pre-gap length  0:00:00.13
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 1D38DE4C
+     Copy CRC 1D38DE4C
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\06 - I Want You (She's So Heavy).wav
+
+     Pre-gap length  0:00:01.36
+
+     Peak level 96.1 %
+     Track quality 100.0 %
+     Test CRC 999C59A4
+     Copy CRC 999C59A4
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\07 - Here Comes The Sun.wav
+
+     Pre-gap length  0:00:01.40
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 07098E49
+     Copy CRC 07098E49
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\08 - Because.wav
+
+     Pre-gap length  0:00:00.85
+
+     Peak level 87.5 %
+     Track quality 100.0 %
+     Test CRC 730A23A8
+     Copy CRC 730A23A8
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\09 - You Never Give Me Your Money.wav
+
+     Pre-gap length  0:00:00.10
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 1FBBA98E
+     Copy CRC 1FBBA98E
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\10 - Sun King.wav
+
+     Peak level 93.9 %
+     Track quality 100.0 %
+     Test CRC 454B5F00
+     Copy CRC 454B5F00
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\11 - Mean Mr. Mustard.wav
+
+     Peak level 96.0 %
+     Track quality 100.0 %
+     Test CRC 090EB5A0
+     Copy CRC 090EB5A0
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\12 - Polythene Pam.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 97B0B259
+     Copy CRC 97B0B259
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 13
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\13 - She Came In Through The Bathroom Window.wav
+
+     Peak level 95.9 %
+     Track quality 100.0 %
+     Test CRC 63A491F1
+     Copy CRC 63A491F1
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 14
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\14 - Golden Slumbers.wav
+
+     Pre-gap length  0:00:00.78
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC BB924B2D
+     Copy CRC BB924B2D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 15
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\15 - Carry That Weight.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 30176A40
+     Copy CRC 30176A40
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 16
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\16 - The End.wav
+
+     Peak level 97.2 %
+     Track quality 100.0 %
+     Test CRC C053B1D1
+     Copy CRC C053B1D1
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 17
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - Abbey Road (2009 Stereo Remaster) [FLAC]\17 - Her Majesty.wav
+
+     Pre-gap length  0:00:14.92
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 819C6DC9
+     Copy CRC 819C6DC9
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

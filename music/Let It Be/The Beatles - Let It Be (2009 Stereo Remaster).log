@@ -1,0 +1,202 @@
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 3. September 2009, 5:38
+
+The Beatles / Let It Be (2009 Stereo Remaster)
+
+Used drive  : TSSTcorpCDDVDW TS-L632H   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 320 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\FLAC\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s  
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  3:36.61 |         0    |    16260   
+        2  |  3:36.61 |  3:55.00 |     16261    |    33885   
+        3  |  7:31.61 |  3:48.10 |     33886    |    50995   
+        4  | 11:19.71 |  2:25.44 |     50996    |    61914   
+        5  | 13:45.40 |  0:50.35 |     61915    |    65699   
+        6  | 14:36.00 |  4:03.02 |     65700    |    83926   
+        7  | 18:39.02 |  0:40.03 |     83927    |    86929   
+        8  | 19:19.05 |  3:37.42 |     86930    |   103246   
+        9  | 22:56.47 |  2:53.72 |    103247    |   116293   
+       10  | 25:50.44 |  3:38.14 |    116294    |   132657   
+       11  | 29:28.58 |  2:32.16 |    132658    |   144073   
+       12  | 32:00.74 |  3:09.29 |    144074    |   158277   
+       13  | 37:42.28 | 26:00.51 |    169678    |   286728   
+
+
+Track  1
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Let It Be (2009 Stereo Remaster) [FLAC]\01 - Two Of Us.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 95.8 %
+     Track quality 99.9 %
+     Test CRC 63246B64
+     Copy CRC 63246B64
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Let It Be (2009 Stereo Remaster) [FLAC]\02 - Dig A Pony.wav
+
+     Pre-gap length  0:00:01.26
+
+     Peak level 96.1 %
+     Track quality 100.0 %
+     Test CRC 3FAABE43
+     Copy CRC 3FAABE43
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Let It Be (2009 Stereo Remaster) [FLAC]\03 - Across the Universe.wav
+
+     Pre-gap length  0:00:01.86
+
+     Peak level 79.3 %
+     Track quality 99.9 %
+     Test CRC 6D987DAB
+     Copy CRC 6D987DAB
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Let It Be (2009 Stereo Remaster) [FLAC]\04 - I Me Mine.wav
+
+     Pre-gap length  0:00:00.93
+
+     Peak level 96.6 %
+     Track quality 100.0 %
+     Test CRC CEC3887D
+     Copy CRC CEC3887D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Let It Be (2009 Stereo Remaster) [FLAC]\05 - Dig It.wav
+
+     Peak level 95.7 %
+     Track quality 99.7 %
+     Test CRC 3565D2D3
+     Copy CRC 3565D2D3
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Let It Be (2009 Stereo Remaster) [FLAC]\06 - Let It Be.wav
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 7F56AAA5
+     Copy CRC 7F56AAA5
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Let It Be (2009 Stereo Remaster) [FLAC]\07 - Maggie Mae.wav
+
+     Peak level 90.8 %
+     Track quality 100.0 %
+     Test CRC 1C6128F7
+     Copy CRC 1C6128F7
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Let It Be (2009 Stereo Remaster) [FLAC]\08 - I've Got A Feeling.wav
+
+     Pre-gap length  0:00:01.94
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 9845FCA0
+     Copy CRC 9845FCA0
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Let It Be (2009 Stereo Remaster) [FLAC]\09 - One After 909.wav
+
+     Pre-gap length  0:00:01.46
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 7A079989
+     Copy CRC 7A079989
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Let It Be (2009 Stereo Remaster) [FLAC]\10 - The Long and Winding Road.wav
+
+     Pre-gap length  0:00:02.22
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 48EC414C
+     Copy CRC 48EC414C
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Let It Be (2009 Stereo Remaster) [FLAC]\11 - For Your Blue.wav
+
+     Peak level 96.0 %
+     Track quality 100.0 %
+     Test CRC C0B71708
+     Copy CRC C0B71708
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename C:\Users\Doug\Desktop\FLAC\The Beatles - 2009 - Let It Be (2009 Stereo Remaster) [FLAC]\12 - Get Back.wav
+
+     Pre-gap length  0:00:01.28
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC C844E92A
+     Copy CRC C844E92A
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

@@ -1,0 +1,224 @@
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 2. September 2009, 22:44
+
+The Beatles / A Hard Day's Night (2009 Stereo Remaster)
+
+Used drive  : TSSTcorpCDDVDW TS-L633L   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s  
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  2:34.15 |         0    |    11564   
+        2  |  2:34.15 |  2:43.06 |     11565    |    23795   
+        3  |  5:17.21 |  2:19.35 |     23796    |    34255   
+        4  |  7:36.56 |  1:56.28 |     34256    |    42983   
+        5  |  9:33.09 |  2:29.52 |     42984    |    54210   
+        6  | 12:02.61 |  2:08.52 |     54211    |    63862   
+        7  | 14:11.38 |  2:11.65 |     63863    |    73752   
+        8  | 16:23.28 |  2:11.21 |     73753    |    83598   
+        9  | 18:34.49 |  1:45.74 |     83599    |    91547   
+       10  | 20:20.48 |  2:35.25 |     91548    |   103197   
+       11  | 22:55.73 |  2:16.48 |    103198    |   113445   
+       12  | 25:12.46 |  2:34.67 |    113446    |   125062   
+       13  | 27:47.38 |  2:24.14 |    125063    |   135876   
+       14  | 32:43.52 | 24:24.41 |    147277    |   257117   
+
+
+Track  1
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - A Hard Day's Night (2009 Stereo Remaster) [FLAC]\01 - A Hard Day's Night.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 96.5 %
+     Track quality 100.0 %
+     Test CRC 543D3E53
+     Copy CRC 543D3E53
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - A Hard Day's Night (2009 Stereo Remaster) [FLAC]\02 - I Should Have Known Better.wav
+
+     Pre-gap length  0:00:01.72
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 95808E4F
+     Copy CRC 95808E4F
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - A Hard Day's Night (2009 Stereo Remaster) [FLAC]\03 - If I Fell.wav
+
+     Pre-gap length  0:00:01.00
+
+     Peak level 95.7 %
+     Track quality 99.9 %
+     Test CRC 09C0516B
+     Copy CRC 09C0516B
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - A Hard Day's Night (2009 Stereo Remaster) [FLAC]\04 - I'm Happy Just To Dance With You.wav
+
+     Pre-gap length  0:00:01.56
+
+     Peak level 96.4 %
+     Track quality 100.0 %
+     Test CRC AFDAF4EC
+     Copy CRC AFDAF4EC
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - A Hard Day's Night (2009 Stereo Remaster) [FLAC]\05 - And I Love Her.wav
+
+     Pre-gap length  0:00:01.05
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 41B9D6F2
+     Copy CRC 41B9D6F2
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - A Hard Day's Night (2009 Stereo Remaster) [FLAC]\06 - Tell Me Why.wav
+
+     Pre-gap length  0:00:00.49
+
+     Peak level 96.1 %
+     Track quality 100.0 %
+     Test CRC A6A2DEA2
+     Copy CRC A6A2DEA2
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - A Hard Day's Night (2009 Stereo Remaster) [FLAC]\07 - Can't Buy Me Love.wav
+
+     Pre-gap length  0:00:01.08
+
+     Peak level 96.0 %
+     Track quality 100.0 %
+     Test CRC 33FC726E
+     Copy CRC 33FC726E
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - A Hard Day's Night (2009 Stereo Remaster) [FLAC]\08 - Any Time At All.wav
+
+     Pre-gap length  0:00:01.52
+
+     Peak level 96.5 %
+     Track quality 100.0 %
+     Test CRC 1D5B2739
+     Copy CRC 1D5B2739
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - A Hard Day's Night (2009 Stereo Remaster) [FLAC]\09 - I'll Cry Instead.wav
+
+     Pre-gap length  0:00:00.74
+
+     Peak level 96.4 %
+     Track quality 100.0 %
+     Test CRC CCB01360
+     Copy CRC CCB01360
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - A Hard Day's Night (2009 Stereo Remaster) [FLAC]\10 - Things We Said Today.wav
+
+     Pre-gap length  0:00:00.98
+
+     Peak level 96.4 %
+     Track quality 100.0 %
+     Test CRC 8C5047C1
+     Copy CRC 8C5047C1
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - A Hard Day's Night (2009 Stereo Remaster) [FLAC]\11 - When I Get Home.wav
+
+     Pre-gap length  0:00:00.26
+
+     Peak level 96.5 %
+     Track quality 100.0 %
+     Test CRC 7EFE2991
+     Copy CRC 7EFE2991
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - A Hard Day's Night (2009 Stereo Remaster) [FLAC]\12 - You Can't Do That.wav
+
+     Pre-gap length  0:00:00.72
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC B5B801CC
+     Copy CRC B5B801CC
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 13
+
+     Filename C:\Users\temp\Desktop\FLAC\The Beatles - 2009 - A Hard Day's Night (2009 Stereo Remaster) [FLAC]\13 - I'll Be Back.wav
+
+     Pre-gap length  0:00:00.94
+
+     Peak level 95.8 %
+     Track quality 100.0 %
+     Test CRC 08D6169E
+     Copy CRC 08D6169E
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report
